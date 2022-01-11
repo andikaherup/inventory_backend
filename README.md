@@ -1,4 +1,4 @@
-# GoCardless sample application
+# Inventory management backend app
 
 ## Setup
 
